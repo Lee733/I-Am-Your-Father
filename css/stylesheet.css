@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+
+hr{
+    border-style: none;
+    border-top-style: solid;
+    border-color: white;
+    border-width: 3px;
+    height: 1px;
+    width: 60%;
+}
+
+h2{
+    color: white;
+    font-size: 20px;
+}
+
+p{
+    color: white;
+}
+
+img:hover{
+    background-color: white;
+    cursor: pointer;
+}
+
+
+/*Class Selector*/
+.heading{
+    font-size: 20px;
+}
+
+
+
+/*Id Selector
+#name{
+    color: white;
+}
+*/
